@@ -1,0 +1,18 @@
+first compile your code by 
+javac "File name"
+then run the byte code by 
+java Main
+
+Types in java 
+    - Primitive Types: "for simple simple value",
+                        type Byte Range
+                        byte 1 - 128
+                        short 2  - 32k
+                        int 4 - 2B
+                        long 8 
+                        float 4
+                        double 8
+                        char 2  A, B, C, ...
+                        Boolean 1 true/false
+    - Reference Types: "for storimg complex objects"
+    
